@@ -39,6 +39,14 @@ body{
 	color:white;
 }
 
+#banner_footer a{
+	color:white;
+	border:0;
+	margin-left:0;
+	padding-left:2vw;
+	padding-right:2vw;
+}
+
 #section_2{
 	width: 100vw;
 	height: 75vh;

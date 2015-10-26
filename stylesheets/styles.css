@@ -47,6 +47,8 @@ body{
 	padding-right:2vw;
 }
 
+#banner_footer a:hover{ }  /* Over riding the hover effect of the parent div - section 1*/
+
 #section_2{
 	width: 100vw;
 	height: 75vh;
